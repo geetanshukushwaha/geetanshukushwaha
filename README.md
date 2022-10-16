@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geetanshukushwaha an Intermediate Student.
+- 👋 Hi, I’m @geetanshukushwaha an Engineering Student.
 - 👀 I’m interested in Programming, Network Security and OS development.
 - 🌱 I’m currently learning Python and MySQL
 - 💞️ I’m looking to collaborate on ...
